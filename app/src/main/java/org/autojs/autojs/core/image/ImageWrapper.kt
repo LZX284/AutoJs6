@@ -9,7 +9,7 @@ import org.autojs.autojs.core.opencv.Mat
 import org.autojs.autojs.core.opencv.OpenCVHelper
 import org.autojs.autojs.pio.UncheckedIOException
 import org.autojs.autojs.util.StringUtils.str
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import org.opencv.android.Utils
 import org.opencv.core.Size
 import org.opencv.imgcodecs.Imgcodecs

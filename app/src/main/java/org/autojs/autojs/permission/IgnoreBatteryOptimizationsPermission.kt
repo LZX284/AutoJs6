@@ -9,7 +9,7 @@ import android.os.PowerManager
 import android.provider.Settings
 import org.autojs.autojs.ui.main.drawer.PermissionItemHelper
 import org.autojs.autojs.util.ViewUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by SuperMonster003 on Jun 21, 2022.

@@ -6,7 +6,7 @@ import org.autojs.autojs.model.explorer.ExplorerItem
 import org.autojs.autojs.model.explorer.ExplorerPage
 import org.autojs.autojs.model.explorer.ExplorerSorter
 import org.autojs.autojs.pref.Pref
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by Stardust on 2017/9/30.

@@ -14,8 +14,8 @@ import org.autojs.autojs.model.explorer.Explorers
 import org.autojs.autojs.ui.edit.EditorView
 import org.autojs.autojs.ui.explorer.ExplorerView
 import org.autojs.autojs.util.ViewUtils
-import org.autojs.autojs6.R
-import org.autojs.autojs6.databinding.ActivityTaskerEditBinding
+import org.autojs.autojs6.inrt.R
+import org.autojs.autojs6.inrt.databinding.ActivityTaskerEditBinding
 import org.json.JSONException
 import org.json.JSONObject
 

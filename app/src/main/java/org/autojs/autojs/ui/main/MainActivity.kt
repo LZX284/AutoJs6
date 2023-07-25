@@ -59,8 +59,8 @@ import org.autojs.autojs.util.StringUtils
 import org.autojs.autojs.util.UpdateUtils.autoCheckForUpdatesIfNeededWithSnackbar
 import org.autojs.autojs.util.ViewUtils
 import org.autojs.autojs.util.WorkingDirectoryUtils
-import org.autojs.autojs6.R
-import org.autojs.autojs6.databinding.ActivityMainBinding
+import org.autojs.autojs6.inrt.R
+import org.autojs.autojs6.inrt.databinding.ActivityMainBinding
 import org.greenrobot.eventbus.EventBus
 
 /**

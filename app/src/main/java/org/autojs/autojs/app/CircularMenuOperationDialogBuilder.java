@@ -11,8 +11,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.OperationDialogItemBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.OperationDialogItemBinding;
 
 import java.util.ArrayList;
 

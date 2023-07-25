@@ -15,7 +15,7 @@ import org.autojs.autojs.ui.main.MainActivity
 import org.autojs.autojs.ui.main.drawer.PermissionItemHelper
 import org.autojs.autojs.util.IntentUtils
 import org.autojs.autojs.util.StringUtils.key
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by SuperMonster003 on Jun 21, 2022.

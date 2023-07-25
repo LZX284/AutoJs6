@@ -17,8 +17,8 @@ import org.autojs.autojs.ui.widget.EWebView
 import org.autojs.autojs.ui.widget.NestedWebView
 import org.autojs.autojs.util.DocsUtils.getUrl
 import org.autojs.autojs.util.WebViewUtils.Companion.adaptDarkMode
-import org.autojs.autojs6.R
-import org.autojs.autojs6.databinding.FragmentOnlineDocsBinding
+import org.autojs.autojs6.inrt.R
+import org.autojs.autojs6.inrt.databinding.FragmentOnlineDocsBinding
 import org.greenrobot.eventbus.EventBus
 import org.greenrobot.eventbus.Subscribe
 

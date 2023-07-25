@@ -20,7 +20,7 @@ import org.autojs.autojs.runtime.exception.ScriptInterruptedException;
 import org.autojs.autojs.script.JavaScriptSource;
 import org.autojs.autojs.script.ScriptSource;
 import org.autojs.autojs.tool.UiHandler;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 

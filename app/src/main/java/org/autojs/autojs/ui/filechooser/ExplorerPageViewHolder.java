@@ -7,7 +7,7 @@ import androidx.annotation.NonNull;
 import org.autojs.autojs.model.explorer.ExplorerPage;
 import org.autojs.autojs.ui.explorer.ExplorerViewHelper;
 import org.autojs.autojs.ui.widget.BindableViewHolder;
-import org.autojs.autojs6.databinding.FileChooseListDirectoryBinding;
+import org.autojs.autojs6.inrt.databinding.FileChooseListDirectoryBinding;
 
 class ExplorerPageViewHolder extends BindableViewHolder<ExplorerPage> {
 

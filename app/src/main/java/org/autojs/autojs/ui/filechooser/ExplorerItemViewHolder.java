@@ -8,8 +8,8 @@ import org.autojs.autojs.model.explorer.ExplorerItem;
 import org.autojs.autojs.pio.PFiles;
 import org.autojs.autojs.ui.explorer.ExplorerViewHelper;
 import org.autojs.autojs.ui.widget.BindableViewHolder;
-import org.autojs.autojs6.databinding.ExplorerFirstCharIconBinding;
-import org.autojs.autojs6.databinding.FileChooseListFileBinding;
+import org.autojs.autojs6.inrt.databinding.ExplorerFirstCharIconBinding;
+import org.autojs.autojs6.inrt.databinding.FileChooseListFileBinding;
 
 class ExplorerItemViewHolder extends BindableViewHolder<ExplorerItem> {
 

@@ -26,8 +26,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import org.autojs.autojs.groundwork.WrapContentGridLayoutManger;
 import org.autojs.autojs.ui.BaseActivity;
 import org.autojs.autojs.util.BitmapUtils;
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.ActivityAppsIconSelectBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.ActivityAppsIconSelectBinding;
 
 import java.util.ArrayList;
 import java.util.List;

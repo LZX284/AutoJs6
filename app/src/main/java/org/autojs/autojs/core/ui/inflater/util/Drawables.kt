@@ -18,7 +18,7 @@ import org.autojs.autojs.core.ui.inflater.ImageLoader.DrawableCallback
 import org.autojs.autojs.runtime.ScriptRuntime
 import org.autojs.autojs.util.ColorUtils
 import org.autojs.autojs.util.ColorUtils.toInt
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.net.URL
 import java.util.concurrent.Executors
 import java.util.regex.Pattern

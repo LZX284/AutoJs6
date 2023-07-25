@@ -6,7 +6,7 @@ import android.os.Looper
 import org.autojs.autojs.ui.BaseActivity
 import org.autojs.autojs.ui.floating.FloatyWindowManger
 import org.autojs.autojs.ui.main.MainActivity
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by Stardust on 2017/7/7.

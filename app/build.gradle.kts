@@ -9,7 +9,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 import java.util.zip.CRC32
 
-val applicationId = "org.autojs.autojs6"
+val applicationId = "org.autojs.autojs6.inrt"
 val sign = Sign("$rootDir/sign.properties")
 val versions = Versions("$rootDir/version.properties")
 
@@ -302,6 +302,7 @@ android {
             "META-INF/ASL2.0",
             "META-INF/*.kotlin_module",
         ).let { resources.pickFirsts.addAll(it) }
+        jniLibs { useLegacyPackaging = true }
     }
 
     kotlinOptions {

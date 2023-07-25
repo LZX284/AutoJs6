@@ -10,7 +10,7 @@ import com.stericson.RootShell.RootShell;
 
 import org.autojs.autojs.pref.Pref;
 import org.autojs.autojs.runtime.api.ProcessShell;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.text.MessageFormat;
 

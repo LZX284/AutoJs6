@@ -19,7 +19,7 @@ import org.autojs.autojs.pref.Pref.lastUpdatesAutoCheckedTimestamp
 import org.autojs.autojs.pref.Pref.lastUpdatesPostponedTimestamp
 import org.autojs.autojs.pref.Pref.refreshLastUpdatesAutoCheckedTimestamp
 import org.autojs.autojs.tool.SimpleObserver
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by SuperMonster003 on May 29, 2022.

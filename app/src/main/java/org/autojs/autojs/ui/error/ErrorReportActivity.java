@@ -12,8 +12,8 @@ import com.afollestad.materialdialogs.MaterialDialog;
 
 import org.autojs.autojs.ui.BaseActivity;
 import org.autojs.autojs.util.ViewUtils;
-import org.autojs.autojs6.BuildConfig;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.BuildConfig;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.Locale;
 import java.util.Objects;

@@ -6,7 +6,7 @@ import org.autojs.autojs.app.GlobalAppContext
 import org.autojs.autojs.pref.Language
 import org.autojs.autojs.runtime.api.AppUtils
 import org.autojs.autojs.util.StringUtils.str
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by SuperMonster003 on Jun 30, 2022.

@@ -9,7 +9,7 @@ import org.autojs.autojs.pref.Pref
 import org.autojs.autojs.theme.preference.MaterialListPreference
 import org.autojs.autojs.util.StringUtils.key
 import org.autojs.autojs.util.ViewUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 class NightModePreference : MaterialListPreference {
 

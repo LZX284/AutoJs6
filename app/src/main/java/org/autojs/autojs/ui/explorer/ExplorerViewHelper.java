@@ -17,7 +17,7 @@ import org.autojs.autojs.model.explorer.ExplorerSamplePage;
 import org.autojs.autojs.pio.PFiles;
 import org.autojs.autojs.pref.Language;
 import org.autojs.autojs.util.FileUtils.TYPE;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 public class ExplorerViewHelper {
 

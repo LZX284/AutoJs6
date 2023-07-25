@@ -4,7 +4,7 @@ import android.app.Activity
 import android.graphics.Paint
 import android.view.View
 import org.autojs.autojs.util.ColorUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.lang.ref.WeakReference
 import java.util.LinkedList
 import java.util.Vector

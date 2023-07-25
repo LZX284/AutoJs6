@@ -12,8 +12,8 @@ import org.autojs.autojs.pio.PFile;
 import org.autojs.autojs.ui.common.ScriptOperations;
 import org.autojs.autojs.ui.widget.BindableViewHolder;
 import org.autojs.autojs.util.Observers;
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.ExplorerDirectoryBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.ExplorerDirectoryBinding;
 
 class ExplorerPageViewHolder extends BindableViewHolder<ExplorerPage> {
 

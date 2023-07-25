@@ -6,7 +6,7 @@ import com.afollestad.materialdialogs.MaterialDialog
 import org.autojs.autojs.runtime.api.AppUtils
 import org.autojs.autojs.theme.preference.MaterialListPreference
 import org.autojs.autojs.ui.doc.DocumentationActivity
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 class DocumentationLauncherIconPreference : MaterialListPreference {
 

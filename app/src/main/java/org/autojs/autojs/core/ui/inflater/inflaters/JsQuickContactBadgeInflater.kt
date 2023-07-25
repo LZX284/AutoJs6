@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import org.autojs.autojs.core.ui.inflater.ResourceParser
 import org.autojs.autojs.core.ui.inflater.ViewCreator
 import org.autojs.autojs.core.ui.widget.JsQuickContactBadge
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 class JsQuickContactBadgeInflater(resourceParser: ResourceParser) : QuickContactBadgeInflater<JsQuickContactBadge>(resourceParser) {
 

@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.net.Uri;
 
 import org.autojs.autojs.app.OnActivityResultDelegate;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 /**
  * Created by Stardust on 2017/3/5.

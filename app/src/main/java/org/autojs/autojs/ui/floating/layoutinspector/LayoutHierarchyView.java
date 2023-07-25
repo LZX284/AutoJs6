@@ -17,7 +17,7 @@ import android.widget.TextView;
 import org.autojs.autojs.core.accessibility.NodeInfo;
 import org.autojs.autojs.ui.widget.LevelBeamView;
 import org.autojs.autojs.util.ViewUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.*;
 

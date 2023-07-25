@@ -10,8 +10,8 @@ import androidx.appcompat.widget.AppCompatEditText
 import androidx.preference.PreferenceManager
 import com.afollestad.materialdialogs.MaterialDialog
 import org.autojs.autojs.ui.edit.editor.CodeEditor.CheckedPatternSyntaxException
-import org.autojs.autojs6.R
-import org.autojs.autojs6.databinding.DialogFindOrReplaceBinding
+import org.autojs.autojs6.inrt.R
+import org.autojs.autojs6.inrt.databinding.DialogFindOrReplaceBinding
 
 /**
  * Created by Stardust on 2017/9/28.

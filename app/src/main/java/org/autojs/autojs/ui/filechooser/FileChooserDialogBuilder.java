@@ -14,7 +14,7 @@ import org.autojs.autojs.model.explorer.ExplorerFileProvider;
 import org.autojs.autojs.model.explorer.Explorers;
 import org.autojs.autojs.model.script.Scripts;
 import org.autojs.autojs.pio.PFile;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.io.File;
 import java.io.FileFilter;

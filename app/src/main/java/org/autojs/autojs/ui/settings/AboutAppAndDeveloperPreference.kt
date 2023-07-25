@@ -10,8 +10,8 @@ import com.afollestad.materialdialogs.DialogAction
 import com.afollestad.materialdialogs.MaterialDialog
 import org.autojs.autojs.theme.preference.MaterialPreference
 import org.autojs.autojs.util.ViewUtils
-import org.autojs.autojs6.BuildConfig
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.BuildConfig
+import org.autojs.autojs6.inrt.R
 import java.util.regex.Pattern
 
 /**

@@ -17,11 +17,11 @@ import org.autojs.autojs.util.ClipboardUtils
 import org.autojs.autojs.util.DeviceUtils
 import org.autojs.autojs.util.UpdateUtils
 import org.autojs.autojs.util.ViewUtils
-import org.autojs.autojs6.BuildConfig
-import org.autojs.autojs6.R
-import org.autojs.autojs6.databinding.ActivityAboutBinding
-import org.autojs.autojs6.databinding.ActivityAboutFunctionButtonsBinding
-import org.autojs.autojs6.databinding.ActivityAboutItemsBinding
+import org.autojs.autojs6.inrt.BuildConfig
+import org.autojs.autojs6.inrt.R
+import org.autojs.autojs6.inrt.databinding.ActivityAboutBinding
+import org.autojs.autojs6.inrt.databinding.ActivityAboutFunctionButtonsBinding
+import org.autojs.autojs6.inrt.databinding.ActivityAboutItemsBinding
 
 /**
  * Created by Stardust on 2017/2/2.

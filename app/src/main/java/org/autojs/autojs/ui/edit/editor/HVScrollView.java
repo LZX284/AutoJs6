@@ -15,7 +15,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.FrameLayout;
 import android.widget.Scroller;
 
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.List;
 

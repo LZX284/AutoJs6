@@ -17,7 +17,7 @@ import org.autojs.autojs.runtime.ScriptRuntime
 import org.autojs.autojs.runtime.exception.ScriptInterruptedException
 import org.autojs.autojs.tool.UiHandler
 import org.autojs.autojs.util.ViewUtils.setViewMeasure
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.util.concurrent.CopyOnWriteArraySet
 
 /**

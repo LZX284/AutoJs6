@@ -9,7 +9,7 @@ import androidx.preference.PreferenceManager;
 import com.afollestad.materialdialogs.MaterialDialog;
 
 import org.autojs.autojs.util.MD5Utils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 /**
  * Created by Stardust on 2017/1/30.

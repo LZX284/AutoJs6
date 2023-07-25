@@ -12,7 +12,7 @@ import org.autojs.autojs.ui.enhancedfloaty.FloatyWindow
 import org.autojs.autojs.ui.enhancedfloaty.util.WindowTypeCompat
 import org.autojs.autojs.concurrent.VolatileDispose
 import org.autojs.autojs.core.ui.inflater.Exceptions
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Modified by SuperMonster003 as of Mar 27, 2022.

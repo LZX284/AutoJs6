@@ -12,8 +12,8 @@ import org.autojs.autojs.app.DialogUtils;
 import org.autojs.autojs.model.script.ScriptFile;
 import org.autojs.autojs.model.script.Scripts;
 import org.autojs.autojs.util.ViewUtils;
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.DialogScriptLoopBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.DialogScriptLoopBinding;
 
 /**
  * Created by Stardust on 2017/7/8.

@@ -6,7 +6,7 @@ import org.autojs.autojs.pref.Pref
 import org.autojs.autojs.ui.main.MainActivity
 import org.autojs.autojs.ui.main.drawer.PermissionItemHelper
 import org.autojs.autojs.util.NotificationUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by SuperMonster003 on May 4, 2023.

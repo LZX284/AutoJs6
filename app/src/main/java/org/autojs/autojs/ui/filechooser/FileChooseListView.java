@@ -13,7 +13,7 @@ import org.autojs.autojs.model.script.ScriptFile;
 import org.autojs.autojs.pio.PFile;
 import org.autojs.autojs.ui.explorer.ExplorerView;
 import org.autojs.autojs.ui.widget.BindableViewHolder;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

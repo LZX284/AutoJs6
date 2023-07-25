@@ -10,7 +10,7 @@ import android.os.Environment;
 import android.text.TextUtils;
 
 import org.autojs.autojs.util.ViewUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.io.File;
 

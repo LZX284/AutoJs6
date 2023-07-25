@@ -17,9 +17,9 @@ import org.autojs.autojs.ui.enhancedfloaty.FloatyService
 import org.autojs.autojs.ui.enhancedfloaty.ResizableExpandableFloaty.AbstractResizableExpandableFloaty
 import org.autojs.autojs.ui.enhancedfloaty.ResizableExpandableFloatyWindow
 import org.autojs.autojs.util.ViewUtils.setViewMeasure
-import org.autojs.autojs6.R
-import org.autojs.autojs6.databinding.FloatingConsoleExpandBinding
-import org.autojs.autojs6.databinding.FloatingWindowCollapseBinding
+import org.autojs.autojs6.inrt.R
+import org.autojs.autojs6.inrt.databinding.FloatingConsoleExpandBinding
+import org.autojs.autojs6.inrt.databinding.FloatingWindowCollapseBinding
 
 /**
  * Created by Stardust on 2017/4/20.

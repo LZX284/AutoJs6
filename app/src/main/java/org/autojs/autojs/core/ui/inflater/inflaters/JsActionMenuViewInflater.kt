@@ -9,8 +9,8 @@ import android.view.ViewGroup
 import org.autojs.autojs.core.ui.inflater.ResourceParser
 import org.autojs.autojs.core.ui.inflater.ViewCreator
 import org.autojs.autojs.core.ui.widget.JsActionMenuView
-import org.autojs.autojs6.R
-import org.autojs.autojs6.databinding.JsToolbarBinding
+import org.autojs.autojs6.inrt.R
+import org.autojs.autojs6.inrt.databinding.JsToolbarBinding
 
 
 class JsActionMenuViewInflater(resourceParser: ResourceParser) : ActionMenuViewInflater<JsActionMenuView>(resourceParser) {

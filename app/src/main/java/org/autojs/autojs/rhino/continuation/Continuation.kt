@@ -4,7 +4,7 @@ import org.autojs.autojs.core.looper.Timer
 import org.autojs.autojs.rhino.AutoJsContext
 import org.autojs.autojs.runtime.ScriptRuntime
 import org.autojs.autojs.util.StringUtils.str
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import org.mozilla.javascript.Context
 import org.mozilla.javascript.ContinuationPending
 import org.mozilla.javascript.Scriptable

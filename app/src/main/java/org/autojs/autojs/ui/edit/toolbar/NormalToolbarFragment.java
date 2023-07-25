@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.FragmentNormalToolbarBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.FragmentNormalToolbarBinding;
 
 import java.util.Arrays;
 import java.util.List;

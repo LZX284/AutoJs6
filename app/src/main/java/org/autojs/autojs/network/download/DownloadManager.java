@@ -24,7 +24,7 @@ import org.autojs.autojs.tool.SimpleObserver;
 import org.autojs.autojs.util.StreamUtils;
 import org.autojs.autojs.util.UpdateUtils;
 import org.autojs.autojs.util.ViewUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.io.File;
 import java.io.FileOutputStream;

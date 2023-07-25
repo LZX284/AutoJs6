@@ -30,8 +30,8 @@ import org.autojs.autojs.util.EnvironmentUtils;
 import org.autojs.autojs.util.IntentUtils;
 import org.autojs.autojs.util.ViewUtils;
 import org.autojs.autojs.util.WorkingDirectoryUtils;
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.ActivityBuildBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.ActivityBuildBinding;
 
 import java.io.File;
 import java.io.InputStream;

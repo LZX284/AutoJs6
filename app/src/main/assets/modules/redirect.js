@@ -1,6 +1,6 @@
 let map = {
-    BuildConfig: org.autojs.autojs6.BuildConfig,
-    R: org.autojs.autojs6.R,
+    BuildConfig: org.autojs.autojs6.inrt.BuildConfig,
+    R: org.autojs.autojs6.inrt.R,
     app: {
         AppOpsKt: org.autojs.autojs.app.AppOps,
         DialogUtils: org.autojs.autojs.app.DialogUtils,
@@ -12,8 +12,8 @@ let map = {
         isUsageStatsPermissionGranted: org.autojs.autojs.app.AppOps.isUsageStatsPermissionGranted,
     },
     autojs: {
-        BuildConfig: org.autojs.autojs6.BuildConfig,
-        R: org.autojs.autojs6.R,
+        BuildConfig: org.autojs.autojs6.inrt.BuildConfig,
+        R: org.autojs.autojs6.inrt.R,
         ScriptEngineService: org.autojs.autojs.engine.ScriptEngineService,
         annotation: {
             ScriptClass: org.autojs.autojs.annotation.ScriptClass,
@@ -319,7 +319,7 @@ let map = {
     },
     automator: {
         ActionArgument: org.autojs.autojs.core.automator.ActionArgument,
-        BuildConfig: org.autojs.autojs6.BuildConfig,
+        BuildConfig: org.autojs.autojs6.inrt.BuildConfig,
         GlobalActionAutomator: org.autojs.autojs.core.automator.GlobalActionAutomator,
         UiGlobalSelector: org.autojs.autojs.core.accessibility.UiSelector,
         UiObject: org.autojs.autojs.core.automator.UiObject,

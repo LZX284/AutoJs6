@@ -11,7 +11,7 @@ import org.autojs.autojs.AutoJs
 import org.autojs.autojs.ui.main.ViewPagerFragment
 import org.autojs.autojs.ui.main.ViewStatesManageable
 import org.autojs.autojs.ui.widget.SimpleAdapterDataObserver
-import org.autojs.autojs6.databinding.FragmentTaskManagerBinding
+import org.autojs.autojs6.inrt.databinding.FragmentTaskManagerBinding
 
 /**
  * Created by Stardust on 2017/3/24.

@@ -14,9 +14,9 @@ import org.autojs.autojs.core.console.ConsoleView;
 import org.autojs.autojs.core.console.GlobalConsole;
 import org.autojs.autojs.ui.BaseActivity;
 import org.autojs.autojs.util.ViewUtils;
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.ActivityLogBinding;
-import org.autojs.autojs6.databinding.ConsoleViewBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.ActivityLogBinding;
+import org.autojs.autojs6.inrt.databinding.ConsoleViewBinding;
 import org.jetbrains.annotations.NotNull;
 
 public class LogActivity extends BaseActivity {

@@ -7,7 +7,7 @@ import androidx.annotation.Nullable;
 
 import org.autojs.autojs.script.ScriptSource;
 import org.autojs.autojs.tool.Supplier;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.HashMap;
 import java.util.Map;

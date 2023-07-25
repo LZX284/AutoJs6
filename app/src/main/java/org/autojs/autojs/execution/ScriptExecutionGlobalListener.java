@@ -7,7 +7,7 @@ import android.annotation.SuppressLint;
 import org.autojs.autojs.AutoJs;
 import org.autojs.autojs.pref.Language;
 import org.autojs.autojs.runtime.api.Console;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 /**
  * Created by Stardust on 2017/5/3.

@@ -11,7 +11,7 @@ import org.autojs.autojs.app.GlobalAppContext;
 import org.autojs.autojs.execution.ExecutionConfig;
 import org.autojs.autojs.external.ScriptIntents;
 import org.autojs.autojs.storage.database.BaseModel;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 import org.joda.time.DateTime;
 import org.joda.time.DateTimeConstants;
 import org.joda.time.LocalDateTime;

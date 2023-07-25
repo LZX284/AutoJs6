@@ -7,7 +7,7 @@ import android.view.InflateException
 import android.view.View
 import android.view.ViewGroup
 import org.autojs.autojs.core.ui.attribute.ViewAttributes
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.util.regex.Pattern
 import kotlin.math.roundToInt
 

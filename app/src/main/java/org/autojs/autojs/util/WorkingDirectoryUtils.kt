@@ -7,7 +7,7 @@ import org.autojs.autojs.util.EnvironmentUtils.externalStorageDirectory
 import org.autojs.autojs.util.EnvironmentUtils.externalStoragePath
 import org.autojs.autojs.util.StringUtils.key
 import org.autojs.autojs.util.StringUtils.str
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.io.File
 
 object WorkingDirectoryUtils {

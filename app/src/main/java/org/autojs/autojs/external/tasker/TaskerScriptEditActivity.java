@@ -17,7 +17,7 @@ import org.autojs.autojs.ui.edit.EditorView;
 import org.autojs.autojs.ui.edit.editor.CodeEditor;
 import org.autojs.autojs.util.Observers;
 import org.autojs.autojs.util.ViewUtils;
-import org.autojs.autojs6.databinding.ActivityTaskerScriptEditBinding;
+import org.autojs.autojs6.inrt.databinding.ActivityTaskerScriptEditBinding;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 

@@ -30,7 +30,7 @@ import org.autojs.autojs.pref.Language;
 import org.autojs.autojs.runtime.ScriptRuntime;
 import org.autojs.autojs.runtime.exception.ScriptException;
 import org.autojs.autojs.tool.MapBuilder;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.HashSet;
 import java.util.Map;

@@ -13,7 +13,7 @@ import androidx.preference.PreferenceManager;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 public class CodeEvaluateDialogBuilder extends MaterialDialog.Builder {
 

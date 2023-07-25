@@ -4,7 +4,7 @@ import android.content.Context;
 import androidx.annotation.NonNull;
 import android.text.TextUtils;
 
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 import org.autojs.autojs.core.record.inputevent.EventFormatException;
 import org.autojs.autojs.runtime.api.Shell;
 

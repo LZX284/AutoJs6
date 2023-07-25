@@ -75,7 +75,7 @@ import org.autojs.autojs.util.DocsUtils.getUrl
 import org.autojs.autojs.util.Observers
 import org.autojs.autojs.util.ViewUtils.showSnack
 import org.autojs.autojs.util.ViewUtils.showToast
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.io.File
 
 /**

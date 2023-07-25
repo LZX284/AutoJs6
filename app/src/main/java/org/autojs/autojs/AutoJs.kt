@@ -30,7 +30,7 @@ import org.autojs.autojs.ui.main.MainActivity
 import org.autojs.autojs.ui.project.BuildActivity
 import org.autojs.autojs.ui.settings.AboutActivity
 import org.autojs.autojs.ui.settings.PreferencesActivity
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.util.concurrent.Executors
 
 /**
@@ -38,7 +38,7 @@ import java.util.concurrent.Executors
  * Modified by SuperMonster003 as of Dec 1, 2021.
  * Transformed by SuperMonster003 on Oct 10, 2022.
  */
-class AutoJs private constructor(private val appContext: Application) : AbstractAutoJs(appContext) {
+open class AutoJs(private val appContext: Application) : AbstractAutoJs(appContext) {
 
     // @Thank to Zen2H
     private val printExecutor = Executors.newSingleThreadExecutor()

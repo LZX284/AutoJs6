@@ -49,7 +49,7 @@ import org.autojs.autojs.util.App
 import org.autojs.autojs.util.RhinoUtils
 import org.autojs.autojs.util.StringUtils.convertRegex
 import org.autojs.autojs.util.StringUtils.str
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import org.mozilla.javascript.BaseFunction
 import org.mozilla.javascript.NativeArray
 import org.mozilla.javascript.NativeJavaMethod

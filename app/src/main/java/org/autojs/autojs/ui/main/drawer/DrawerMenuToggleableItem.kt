@@ -8,7 +8,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 import org.autojs.autojs.pref.Pref
 import org.autojs.autojs.ui.common.NotAskAgainDialog
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 open class DrawerMenuToggleableItem : DrawerMenuItem, IToggleableItem {
 

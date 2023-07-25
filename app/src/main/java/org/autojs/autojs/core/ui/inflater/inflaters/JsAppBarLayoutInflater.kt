@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import org.autojs.autojs.core.ui.inflater.ResourceParser
 import org.autojs.autojs.core.ui.inflater.ViewCreator
 import org.autojs.autojs.core.ui.widget.JsAppBarLayout
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 class JsAppBarLayoutInflater(resourceParser: ResourceParser) : AppBarLayoutInflater<JsAppBarLayout>(resourceParser) {
 

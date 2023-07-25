@@ -33,7 +33,7 @@
     <string name="apk_builder_package" tools:ignore="TypographyEllipsis">Packaging...</string>
     <string name="apk_builder_plugin_version_incompatible">Incompatible version of \"apk builder\".\nDownload it now?</string>
     <string name="apk_builder_prepare" tools:ignore="TypographyEllipsis">Preparing...</string>
-    <string name="app_name" translatable="false">AutoJs6</string>
+    <string name="app_name" translatable="false">AutoJs6 inrt</string>
     <string name="app_name_qq" translatable="false">QQ</string>
     <string name="com_twofortyfouram_log_tag" tools:ignore="ResourceName" translatable="false" />
     <string name="confirm_overwrite_file">File already exists.\nOverwrite?</string>

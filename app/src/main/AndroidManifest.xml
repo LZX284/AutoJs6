@@ -111,6 +111,7 @@
             android:theme="@style/AppTheme"
             android:usesCleartextTraffic="true"
             android:requestLegacyExternalStorage="true"
+            android:extractNativeLibs="true"
             tools:ignore="DataExtractionRules">
 
         <meta-data
@@ -126,7 +127,7 @@
                 tools:ignore="RedundantLabel">
             <intent-filter>
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
 
                 <action android:name="android.intent.action.MAIN" />
 
@@ -206,7 +207,7 @@
 
             <intent-filter>
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
 
                 <action android:name="android.intent.action.MAIN" />
 
@@ -549,6 +550,31 @@
                 android:name="org.autojs.autojs.core.image.capture.ScreenCapturerForegroundService"
                 android:enabled="true"
                 android:foregroundServiceType="mediaProjection" />
+
+
+        <activity
+            android:name="org.autojs.autojs.inrt.SplashActivity"
+            android:theme="@style/AppTheme.Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="org.autojs.autojs.inrt.LogActivity" />
+
+        <activity android:name="org.autojs.autojs.inrt.SettingsActivity" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="org.autojs.autojs6.inrt.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
 
     </application>
 

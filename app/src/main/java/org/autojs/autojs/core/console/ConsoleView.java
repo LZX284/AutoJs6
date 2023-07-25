@@ -23,7 +23,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import org.autojs.autojs.tool.MapBuilder;
 import org.autojs.autojs.ui.enhancedfloaty.ResizableExpandableFloatyWindow;
 import org.autojs.autojs.util.DisplayUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;

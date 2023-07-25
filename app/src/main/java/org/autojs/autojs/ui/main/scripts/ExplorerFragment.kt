@@ -22,8 +22,8 @@ import org.autojs.autojs.ui.main.ViewPagerFragment
 import org.autojs.autojs.ui.main.ViewStatesManageable
 import org.autojs.autojs.ui.project.ProjectConfigActivity
 import org.autojs.autojs.util.IntentUtils.viewFile
-import org.autojs.autojs6.R
-import org.autojs.autojs6.databinding.FragmentExplorerBinding
+import org.autojs.autojs6.inrt.R
+import org.autojs.autojs6.inrt.databinding.FragmentExplorerBinding
 import org.greenrobot.eventbus.EventBus
 import org.greenrobot.eventbus.Subscribe
 

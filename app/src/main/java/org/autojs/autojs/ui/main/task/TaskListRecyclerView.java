@@ -29,9 +29,9 @@ import org.autojs.autojs.script.AutoFileSource;
 import org.autojs.autojs.storage.database.ModelChange;
 import org.autojs.autojs.timing.TimedTaskManager;
 import org.autojs.autojs.ui.timing.TimedTaskSettingActivity;
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.ExplorerFirstCharIconBinding;
-import org.autojs.autojs6.databinding.TaskListRecyclerViewItemBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.ExplorerFirstCharIconBinding;
+import org.autojs.autojs6.inrt.databinding.TaskListRecyclerViewItemBinding;
 
 import java.util.ArrayList;
 import java.util.List;

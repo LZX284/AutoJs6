@@ -18,7 +18,7 @@ import com.afollestad.materialdialogs.MaterialDialog;
 import org.autojs.autojs.ui.widget.AutoAdapter;
 import org.autojs.autojs.ui.widget.BindableViewHolder;
 import org.autojs.autojs.util.ClipboardUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.List;
 

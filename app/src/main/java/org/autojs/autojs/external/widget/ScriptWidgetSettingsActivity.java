@@ -15,8 +15,8 @@ import org.autojs.autojs.model.explorer.ExplorerFileProvider;
 import org.autojs.autojs.model.script.Scripts;
 import org.autojs.autojs.ui.BaseActivity;
 import org.autojs.autojs.ui.explorer.ExplorerView;
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.ActivityScriptWidgetSettingsBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.ActivityScriptWidgetSettingsBinding;
 
 /**
  * Created by Stardust on 2017/7/11.

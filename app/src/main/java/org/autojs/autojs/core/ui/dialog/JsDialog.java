@@ -42,7 +42,7 @@ import com.afollestad.materialdialogs.internal.MDButton;
 import com.google.android.material.snackbar.Snackbar;
 
 import org.autojs.autojs.app.DialogUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 import org.autojs.autojs.core.eventloop.EventEmitter;
 import org.autojs.autojs.tool.UiHandler;
 

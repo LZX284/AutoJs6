@@ -7,7 +7,7 @@ import android.util.AttributeSet
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.widget.Toolbar
 import androidx.drawerlayout.widget.DrawerLayout
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 class JsToolbar : Toolbar {
 

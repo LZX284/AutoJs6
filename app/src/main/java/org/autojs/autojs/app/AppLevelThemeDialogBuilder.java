@@ -6,7 +6,7 @@ import androidx.annotation.NonNull;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 public class AppLevelThemeDialogBuilder extends MaterialDialog.Builder {
 

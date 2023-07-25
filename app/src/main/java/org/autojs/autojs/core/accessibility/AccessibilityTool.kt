@@ -13,7 +13,7 @@ import org.autojs.autojs.runtime.api.ProcessShell.execCommand
 import org.autojs.autojs.util.RootUtils
 import org.autojs.autojs.util.SettingsUtils
 import org.autojs.autojs.util.ViewUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by Stardust on 2017/1/26.

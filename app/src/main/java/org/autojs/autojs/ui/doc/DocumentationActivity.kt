@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.webkit.WebView
 import org.autojs.autojs.ui.BaseActivity
 import org.autojs.autojs.util.DocsUtils.getUrl
-import org.autojs.autojs6.databinding.ActivityDocumentationBinding
+import org.autojs.autojs6.inrt.databinding.ActivityDocumentationBinding
 
 /**
  * Created by Stardust on 2017/10/24.

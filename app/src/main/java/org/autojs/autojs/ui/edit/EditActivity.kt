@@ -25,8 +25,8 @@ import org.autojs.autojs.theme.ThemeColorManager
 import org.autojs.autojs.ui.BaseActivity
 import org.autojs.autojs.ui.main.MainActivity
 import org.autojs.autojs.util.Observers
-import org.autojs.autojs6.R
-import org.autojs.autojs6.databinding.ActivityEditBinding
+import org.autojs.autojs6.inrt.R
+import org.autojs.autojs6.inrt.databinding.ActivityEditBinding
 import java.io.File
 import java.io.IOException
 

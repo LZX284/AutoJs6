@@ -18,7 +18,7 @@ import org.autojs.autojs.script.StringScriptSource;
 import org.autojs.autojs.util.MD5Utils;
 import org.autojs.autojs.util.ViewUtils;
 import org.autojs.autojs.util.WorkingDirectoryUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.io.ByteArrayInputStream;
 import java.io.File;

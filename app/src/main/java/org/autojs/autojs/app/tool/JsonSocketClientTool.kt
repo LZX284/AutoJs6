@@ -11,7 +11,7 @@ import org.autojs.autojs.pref.Pref
 import org.autojs.autojs.ui.main.drawer.DrawerMenuDisposableItem
 import org.autojs.autojs.util.Observers
 import org.autojs.autojs.util.ViewUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 class JsonSocketClientTool(context: Context) : AbstractJsonSocketTool(context) {
 

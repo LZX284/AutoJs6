@@ -11,7 +11,7 @@ import androidx.annotation.ColorRes;
 import androidx.annotation.Nullable;
 
 import org.autojs.autojs.theme.ThemeColorManagerCompat;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 @SuppressWarnings("UnusedReturnValue")
 public class FirstCharView extends TextView {

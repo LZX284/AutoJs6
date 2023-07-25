@@ -12,7 +12,7 @@ import android.widget.RemoteViews;
 import org.autojs.autojs.external.ScriptIntents;
 import org.autojs.autojs.external.open.RunIntentActivity;
 import org.autojs.autojs.pio.PFiles;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.HashSet;
 import java.util.Set;

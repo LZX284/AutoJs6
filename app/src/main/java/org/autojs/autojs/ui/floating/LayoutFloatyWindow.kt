@@ -15,7 +15,7 @@ import org.autojs.autojs.ui.floating.layoutinspector.NodeInfoView
 import org.autojs.autojs.ui.widget.BubblePopupMenu
 import org.autojs.autojs.util.ClipboardUtils
 import org.autojs.autojs.util.ViewUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 abstract class LayoutFloatyWindow(private val rootNode: NodeInfo?, private val context: Context, private val isServiceRelied: Boolean) : FullScreenFloatyWindow() {
 

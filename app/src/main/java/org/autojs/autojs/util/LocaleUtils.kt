@@ -7,7 +7,7 @@ import com.zeugmasolutions.localehelper.LocaleHelper
 import com.zeugmasolutions.localehelper.LocaleHelperActivityDelegate
 import com.zeugmasolutions.localehelper.LocaleHelperActivityDelegateImpl
 import org.autojs.autojs.app.GlobalAppContext
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.util.Locale
 
 object LocaleUtils {

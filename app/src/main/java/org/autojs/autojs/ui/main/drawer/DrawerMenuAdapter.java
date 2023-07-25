@@ -5,7 +5,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 import org.autojs.autojs.ui.widget.BindableViewHolder;
 
 import java.util.List;

@@ -17,7 +17,7 @@ import org.autojs.autojs.ui.enhancedfloaty.gesture.DragGesture
 import org.autojs.autojs.util.ClipboardUtils
 import org.autojs.autojs.util.ViewUtils
 import org.autojs.autojs.util.ViewUtils.setViewMeasure
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import org.opencv.core.Point
 import org.opencv.core.Size
 import java.lang.ref.WeakReference

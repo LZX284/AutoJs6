@@ -14,7 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import org.autojs.autojs.model.autocomplete.CodeCompletions;
 import org.autojs.autojs.groundwork.WrapContentLinearLayoutManager;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 /**
  * Created by Stardust on 2017/2/17.

@@ -16,7 +16,7 @@ import com.afollestad.materialdialogs.MaterialDialog
 import org.autojs.autojs.theme.preference.LongClickablePreferenceLike
 import org.autojs.autojs.ui.explorer.ExplorerView
 import org.autojs.autojs.util.ViewUtils.showSnack
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by Stardust on 2017/8/4.

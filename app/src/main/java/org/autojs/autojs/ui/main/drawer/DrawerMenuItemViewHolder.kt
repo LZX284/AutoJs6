@@ -6,7 +6,7 @@ import android.widget.TextView
 import me.zhanghai.android.materialprogressbar.MaterialProgressBar
 import org.autojs.autojs.ui.widget.BindableViewHolder
 import org.autojs.autojs.ui.widget.PrefSwitch
-import org.autojs.autojs6.databinding.DrawerMenuItemBinding
+import org.autojs.autojs6.inrt.databinding.DrawerMenuItemBinding
 import java.io.IOException
 
 /**

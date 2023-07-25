@@ -6,7 +6,7 @@ import android.util.Log;
 
 import org.autojs.autojs.pio.UncheckedIOException;
 import org.autojs.autojs.util.ProcessUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

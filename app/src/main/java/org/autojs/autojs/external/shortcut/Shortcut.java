@@ -6,7 +6,7 @@ import android.graphics.Bitmap;
 import android.os.Bundle;
 
 import org.autojs.autojs.util.BitmapUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 /**
  * Created by Stardust on 2017/1/20.

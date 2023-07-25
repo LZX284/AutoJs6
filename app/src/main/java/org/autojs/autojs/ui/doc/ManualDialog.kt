@@ -10,7 +10,7 @@ import android.view.View
 import android.widget.TextView
 import com.afollestad.materialdialogs.MaterialDialog
 import org.autojs.autojs.ui.widget.EWebView
-import org.autojs.autojs6.databinding.FloatingManualDialogBinding
+import org.autojs.autojs6.inrt.databinding.FloatingManualDialogBinding
 
 /**
  * Created by Stardust on 2017/10/24.

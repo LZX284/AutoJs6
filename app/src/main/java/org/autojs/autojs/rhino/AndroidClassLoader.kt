@@ -9,7 +9,7 @@ import net.lingala.zip4j.model.ZipParameters
 import org.autojs.autojs.pio.PFiles.deleteFilesOfDir
 import org.autojs.autojs.util.MD5Utils.md5
 import org.autojs.autojs.util.StringUtils.str
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import org.mozilla.javascript.GeneratedClassLoader
 import java.io.ByteArrayInputStream
 import java.io.File

@@ -7,7 +7,7 @@ import androidx.preference.Preference.SummaryProvider
 import org.autojs.autojs.pref.Pref
 import org.autojs.autojs.theme.preference.MaterialPreference
 import org.autojs.autojs.util.UpdateUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by SuperMonster003 on Sep 25, 2022.

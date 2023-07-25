@@ -11,7 +11,7 @@ import org.autojs.autojs.execution.ScriptExecution;
 import org.autojs.autojs.timing.IntentTask;
 import org.autojs.autojs.timing.TimedTask;
 import org.autojs.autojs.timing.TimedTaskManager;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.ArrayList;
 import java.util.List;

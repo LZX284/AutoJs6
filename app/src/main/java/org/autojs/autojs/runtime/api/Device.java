@@ -25,7 +25,7 @@ import androidx.annotation.Nullable;
 import org.autojs.autojs.pio.PFiles;
 import org.autojs.autojs.pio.UncheckedIOException;
 import org.autojs.autojs.util.DeviceUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.net.NetworkInterface;
 import java.net.SocketException;

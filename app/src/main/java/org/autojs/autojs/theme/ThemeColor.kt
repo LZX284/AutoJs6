@@ -8,7 +8,7 @@ import org.autojs.autojs.pref.Pref.containsKey
 import org.autojs.autojs.pref.Pref.getInt
 import org.autojs.autojs.pref.Pref.putInt
 import org.autojs.autojs.theme.ThemeColorManager.defaultThemeColor
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by Stardust on 2017/3/5.

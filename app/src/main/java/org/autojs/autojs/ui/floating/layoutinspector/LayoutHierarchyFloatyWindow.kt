@@ -7,7 +7,7 @@ import org.autojs.autojs.ui.enhancedfloaty.FloatyService
 import org.autojs.autojs.core.accessibility.NodeInfo
 import org.autojs.autojs.ui.floating.LayoutFloatyWindow
 import org.autojs.autojs.util.EventUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Created by Stardust on 2017/3/12.

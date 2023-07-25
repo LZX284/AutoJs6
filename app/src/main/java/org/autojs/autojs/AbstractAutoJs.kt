@@ -20,6 +20,7 @@ import org.autojs.autojs.engine.RootAutomatorEngine
 import org.autojs.autojs.engine.ScriptEngineManager
 import org.autojs.autojs.engine.ScriptEngineService
 import org.autojs.autojs.engine.ScriptEngineServiceBuilder
+import org.autojs.autojs.inrt.autojs.XJavaScriptEngine
 import org.autojs.autojs.pref.Pref.registerOnSharedPreferenceChangeListener
 import org.autojs.autojs.rhino.InterruptibleAndroidContextFactory
 import org.autojs.autojs.runtime.ScriptRuntime
@@ -34,7 +35,7 @@ import org.autojs.autojs.util.ResourceMonitor
 import org.autojs.autojs.util.ResourceMonitor.UnclosedResourceException
 import org.autojs.autojs.util.StringUtils
 import org.autojs.autojs.util.ViewUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import org.mozilla.javascript.ContextFactory
 import org.mozilla.javascript.WrappedException
 import java.io.File
@@ -60,10 +61,15 @@ abstract class AbstractAutoJs protected constructor(protected val application: A
     val scriptEngineManager = ScriptEngineManager(context)
     val scriptEngineService: ScriptEngineService = run {
         scriptEngineManager.registerEngine(JavaScriptSource.ENGINE) {
-            LoopBasedJavaScriptEngine(context).also { engine ->
+            XJavaScriptEngine(context).also { engine ->
                 engine.runtime = createRuntime().also { runtime = it }
             }
         }
+//        scriptEngineManager.registerEngine(JavaScriptSource.ENGINE) {
+//            LoopBasedJavaScriptEngine(context).also { engine ->
+//                engine.runtime = createRuntime().also { runtime = it }
+//            }
+//        }
         initContextFactory()
         scriptEngineManager.registerEngine(AutoFileSource.ENGINE) { RootAutomatorEngine(context) }
         ScriptEngineServiceBuilder()

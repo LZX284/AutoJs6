@@ -16,7 +16,7 @@ import org.autojs.autojs.pref.Pref;
 import org.autojs.autojs.ui.common.ScriptOperations;
 import org.autojs.autojs.util.ClipboardUtils;
 import org.autojs.autojs.util.ViewUtils;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.R;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 

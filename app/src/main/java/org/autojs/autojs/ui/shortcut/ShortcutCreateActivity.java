@@ -28,8 +28,8 @@ import org.autojs.autojs.external.shortcut.ShortcutActivity;
 import org.autojs.autojs.external.shortcut.ShortcutManager;
 import org.autojs.autojs.model.script.ScriptFile;
 import org.autojs.autojs.util.BitmapUtils;
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.ShortcutCreateDialogBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.ShortcutCreateDialogBinding;
 
 import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;

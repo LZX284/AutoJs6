@@ -3,7 +3,7 @@ package org.autojs.autojs.ui.widget
 import android.content.Context
 import android.util.AttributeSet
 import android.widget.TextView
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.util.Calendar
 
 class CopyrightTextView : TextView {

@@ -9,7 +9,7 @@ import org.autojs.autojs.lang.ThreadCompat
 import org.autojs.autojs.runtime.ScriptRuntime
 import org.autojs.autojs.runtime.exception.ScriptInterruptedException
 import org.autojs.autojs.util.StringUtils.str
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import org.mozilla.javascript.Context
 import java.util.concurrent.ConcurrentHashMap
 

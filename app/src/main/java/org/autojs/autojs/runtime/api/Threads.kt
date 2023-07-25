@@ -5,7 +5,7 @@ import org.autojs.autojs.core.looper.MainThreadProxy
 import org.autojs.autojs.core.looper.TimerThread
 import org.autojs.autojs.runtime.ScriptRuntime
 import org.autojs.autojs.util.StringUtils.str
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.util.concurrent.atomic.AtomicLong
 import java.util.concurrent.locks.ReentrantLock
 

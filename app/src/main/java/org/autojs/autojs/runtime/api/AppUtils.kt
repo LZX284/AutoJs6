@@ -14,7 +14,7 @@ import androidx.localbroadcastmanager.content.LocalBroadcastManager
 import org.autojs.autojs.annotation.ScriptInterface
 import org.autojs.autojs.util.App
 import org.autojs.autojs.util.IntentUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.lang.ref.WeakReference
 import java.net.URI
 

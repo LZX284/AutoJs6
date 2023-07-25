@@ -6,8 +6,8 @@ import androidx.annotation.Nullable;
 
 import org.autojs.autojs.ui.BaseActivity;
 import org.autojs.autojs.util.ViewUtils;
-import org.autojs.autojs6.R;
-import org.autojs.autojs6.databinding.ActivityDeveloperOptionsBinding;
+import org.autojs.autojs6.inrt.R;
+import org.autojs.autojs6.inrt.databinding.ActivityDeveloperOptionsBinding;
 
 /**
  * Created by SuperMonster003 on Jun 2, 2022.

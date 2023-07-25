@@ -6,7 +6,7 @@ import android.content.Intent
 import android.net.Uri
 import android.provider.Settings
 import androidx.core.content.FileProvider
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.io.File
 
 object IntentUtils {

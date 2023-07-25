@@ -5,7 +5,7 @@ import android.content.Intent
 import org.autojs.autojs.tool.ForegroundServiceCreator
 import org.autojs.autojs.ui.main.MainActivity.Companion.getIntent
 import org.autojs.autojs.util.ForegroundServiceUtils
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 
 /**
  * Modified by SuperMonster003 as of Apr 10, 2022.

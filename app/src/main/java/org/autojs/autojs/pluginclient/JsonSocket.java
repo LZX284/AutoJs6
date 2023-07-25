@@ -25,8 +25,8 @@ import com.google.gson.stream.JsonReader;
 import org.autojs.autojs.runtime.ScriptRuntime;
 import org.autojs.autojs.runtime.api.Device;
 import org.autojs.autojs.tool.MapBuilder;
-import org.autojs.autojs6.BuildConfig;
-import org.autojs.autojs6.R;
+import org.autojs.autojs6.inrt.BuildConfig;
+import org.autojs.autojs6.inrt.R;
 import org.mozilla.javascript.NativeObject;
 
 import java.io.BufferedOutputStream;

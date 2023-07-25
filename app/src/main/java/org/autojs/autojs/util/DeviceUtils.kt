@@ -12,7 +12,7 @@ import android.os.Build
 import android.telephony.TelephonyManager
 import androidx.annotation.IntRange
 import org.autojs.autojs.runtime.exception.ScriptException
-import org.autojs.autojs6.R
+import org.autojs.autojs6.inrt.R
 import java.util.Arrays
 
 object DeviceUtils {
